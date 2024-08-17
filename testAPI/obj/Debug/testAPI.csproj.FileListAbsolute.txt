@@ -1,0 +1,7 @@
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\bin\Debug\testAPI.exe.config
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\bin\Debug\testAPI.exe
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\bin\Debug\testAPI.pdb
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\obj\Debug\testAPI.csproj.AssemblyReference.cache
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\obj\Debug\testAPI.csproj.CoreCompileInputs.cache
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\obj\Debug\testAPI.exe
+C:\Users\SeyiOG\Documents\GuaraGuara\testAPI\testAPI\obj\Debug\testAPI.pdb
